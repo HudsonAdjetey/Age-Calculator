@@ -3,7 +3,7 @@
 An age calculator. The calculator accepts date inputs from the user and calculates the days, months and years relative to the current date of user's device. 
 
 ### Screenshot
-
+<img src ="https://github.com/HudsonAdjetey/Age-Calculator/blob/main/assets/screenshot/Screen%20Shot%202023-07-03%20at%2017.07.28.png" width = "250" /> <img src="https://github.com/HudsonAdjetey/Age-Calculator/blob/main/assets/screenshot/Screen%20Shot%202023-07-03%20at%2017.06.29.png"  width = "250"/>
 
 ## My process
 
@@ -16,17 +16,7 @@ An age calculator. The calculator accepts date inputs from the user and calculat
 * Mobile-first workflow
 
 
-
-### Useful resources
-
-- [Example resource 1](https://www.example.com) - This helped me for XYZ reason. I really liked this pattern and will use it going forward.
-- [Example resource 2](https://www.example.com) - This is an amazing article which helped me finally understand XYZ. I'd recommend it to anyone still learning this concept.
-
-**Note: Delete this note and replace the list above with resources that helped you during the challenge. These could come in handy for anyone viewing your solution or for yourself when you look back on this project in the future.**
-
 ## Author
-
-- Website - [Add your name here](https://www.your-site.com)
-- Frontend Mentor - [@yourusername](https://www.frontendmentor.io/profile/yourusername)
-- Twitter - [@yourusername](https://www.twitter.com/yourusername)
+- Frontend Mentor - [@yourusername](https://www.frontendmentor.io/profile/Hudsky545)
+- Twitter - [@yourusername](https://www.twitter.com/HudsonAdjetey)
 
