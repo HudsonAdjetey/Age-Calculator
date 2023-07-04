@@ -77,6 +77,11 @@ body {
     color: var(--Light-red);
     display: none;
 }
+.date p {
+    font-size: .3em;
+    font-weight: var(--fw4);
+    color: var(--Light-red);
+}
 .date .alert {
     color: var(--Light-red);
     display: block;
