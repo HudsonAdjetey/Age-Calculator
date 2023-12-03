@@ -17,6 +17,6 @@ An age calculator. The calculator accepts date inputs from the user and calculat
 
 
 ## Author
-- Frontend Mentor - [@yourusername](https://www.frontendmentor.io/profile/Hudsky545)
+- Frontend Mentor - @hudsonsky(https://www.frontendmentor.io/profile/Hudsky545)
 - Twitter - [@yourusername](https://www.twitter.com/HudsonAdjetey)
 
